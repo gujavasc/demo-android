@@ -1,4 +1,6 @@
 demo-android
 ============
 
-DÃª Seus Primeiros Passos no Desenvolvimento com Android.
+Dê Seus Primeiros Passos no Desenvolvimento com Android.
+
+Apresentação: http://www.slideshare.net/RodolfoFaquinDellaJu/d-seus-primeiros-passos-no-desenvolvimento-com-android
