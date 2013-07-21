@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuJavaSC</string>
+    <string name="action_settings">Settings</string>
+    <string name="ola_gujavasc">Olá GUJavaSC!</string>
+    <string name="title_activity_slave">Slave</string>
+    <string name="title_activity_absolute_layout">AbsoluteLayout</string>
+    <string name="fr_layout">Frame Layout</string>
+    <string name="tx_frameLayout">Frame Layout</string>
+    <string name="tx_linearLayout">Linear Layout</string>
+    <string name="tx_relativeLayout">Relative Layout</string>
+    <string name="title_activity_linear_layout">LinearLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_linear_layout1">Ordem Vertical</string>
+    <string name="bt_linear_layout2">Ordem Horizontal</string>
+    <string name="title_activity_relative_layout">RelativeLayout</string>
+    <string name="tx_relative1">Relativo ao Componente</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="tx_listView">List View</string>
+    <string name="title_activity_grid_view">GridView</string>
+    <string name="tx_gridView">Grid View</string>
+    <string name="tx_abrirBrowser">Abrir Browser</string>
+    <string name="tx_simularChamada">Simular Chamada</string>
+    <string name="tx_entradaTexto">Entrada de Texto e Alerta</string>
+    <string name="title_activity_web_view">WebView</string>
+    <string name="tx_WebView">Web View</string>
+    <string name="tx_parametro">Parâmetro</string>
+    <string name="tx_parametroRecebido">O parâmetro recebido da outra tela é</string>
+    <string name="title_activity_conceitos">Conceitos</string>
+
+</resources>

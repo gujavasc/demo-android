@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.gujavasc.demo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="org.gujavasc.demo.Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.Parametros"
+            android:label="@string/title_activity_slave" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.FrameLayout"
+            android:label="@string/title_activity_absolute_layout" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.LinearLayout"
+            android:label="@string/title_activity_linear_layout" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.RelativeLayout"
+            android:label="@string/title_activity_relative_layout" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.ListView"
+            android:label="@string/title_activity_list_view" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.GridVieww"
+            android:label="@string/title_activity_grid_view" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.WebVieww"
+            android:label="@string/title_activity_web_view" >
+        </activity>
+        <activity
+            android:name="org.gujavasc.demo.Conceitos"
+            android:label="@string/title_activity_conceitos" >
+        </activity>
+    </application>
+
+</manifest>
